@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**JuanSantos100/JuanSantos100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <center>Hi, I'm Juan Santos 👋🏼</center>
 
-Here are some ideas to get you started:
+- I aim to advance my career in data science and enjoy studying cybersecurity in my spare time
+- How to reach me: juanvictorventura.santos@gmail.com
+- Know about my experiences: https://www.linkedin.com/in/juan-victor-ventura-santos/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Juan Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSantos100&show_icons=true&theme=dracula)
+
+
+## Languages and Tools
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div></br>
+
+## Connect with me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-victor-ventura-santos/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_sant0s_/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juanvictor.ventura/) 
