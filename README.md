@@ -1,7 +1,7 @@
 # Hi, I'm Juan 👋
 
 I’m a Data Engineer from Brazil, passionate about building scalable **data pipelines**, working with **cloud technologies**, and turning raw data into valuable insights.  
-Currently, I’m focused on improving my skills in **Python, AWS, and Big Data frameworks** to grow in the international market.  
+Currently, I’m focused on improving my skills in **Python, AWS, and Big Data frameworks**.
 
 ---
 
