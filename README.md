@@ -1,7 +1,7 @@
 # Hi, I'm Juan 👋
 
-I’m a Data Engineer from Brazil, passionate about building scalable **data pipelines**, working with **cloud technologies**, and turning raw data into valuable insights.  
-Currently, I’m focused on improving my skills in **Python, AWS, and Big Data frameworks**.
+🧑‍💻 About Me
+Data Engineer from São Paulo, Brazil, passionate about transforming data into insights and solving real-world problems. Strong background in relational databases, ETL processes, and SQL development. Currently enhancing my skills in cloud computing, big data technologies, and Python for data engineering.
 
 ---
 
@@ -12,14 +12,22 @@ Currently, I’m focused on improving my skills in **Python, AWS, and Big Data f
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Technical Skills
 
-**Core Skills**
-- SQL
-- ETL
-- Relational Databases (SQL Server)
-- Python
-- AWS
+SQL: Advanced experience in SQL Server, building complex queries, procedures, triggers, views, and ETL pipelines.
+
+ETL: Solid practice with SSIS, data extraction/transformation/loading from CSV, TXT, Excel, and integration to relational databases.
+
+Python: Basic skills focused on Pandas, data manipulation; improving through hands-on projects.
+
+Java: Previous experience in backend development with Spring Boot, OOP concepts.
+
+Cloud: Studying AWS and GCP; motivated to build data pipelines and scalable architectures in the cloud.
+
+PowerBI: Foundational knowledge; exploring data visualization and dashboard building.
+
+Methodologies: Experience with agile (Kanban, Scrum) and remote collaboration tools (Trello, Jira, Slack).
+
 
 ## 🌎 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/juan-victor-ventura-santos)
