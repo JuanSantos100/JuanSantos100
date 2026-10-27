@@ -1,7 +1,7 @@
 # Hi, I'm Juan 👋
 
 🧑‍💻 About Me
-Data Engineer from São Paulo, Brazil, passionate about transforming data into insights and solving real-world problems. Strong background in relational databases, ETL processes, and SQL development. Currently enhancing my skills in cloud computing, big data technologies, and Python for data engineering.
+I'm Data Engineer from São Paulo, Brazil, passionate about transforming data into insights and solving real-world problems. Strong background in relational databases, ETL processes, and SQL development. Currently enhancing my skills in cloud computing, big data technologies, and Python for data engineering.
 
 ---
 
